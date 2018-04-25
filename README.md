@@ -89,4 +89,4 @@ puts "Hi, #{name}" unless name == "Steven"
 
 ???
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/conditional-operators-quiz' title='Condition Operators Quiz'>Condition Operators Quiz</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Condition Operators Quiz</p>
